@@ -1,9 +1,8 @@
 #include <iostream.h>
 #include <conio.h>
 
-void main()
-{
+void main(){
 	clrscr();
-	cout << "Hello World";
+	cout << "Hello from Exun Clan";
 	getch();
 }
